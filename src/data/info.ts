@@ -1,27 +1,26 @@
 export const info = {
-  name: "Bart Simpson",
+  name: "Thelonious Fox",
   brief_description:
-    "I'm a mischievous full stack developer with a knack for troublemaking.",
+    "I'm a Full Stack Engineer",
   role: "Full Stack Developer",
   picture: "/pic.png",
   picture_alt: "Bart Simpson",
-  location: "Springfield, USA",
+  location: "Seattle, WA",
   cv: "/resume.pdf",
 
   about: {
-    description: `I'm a full stack developer with a passion for causing a little chaos in web development.
-    I have a solid foundation in computer science, although I prefer skateboarding over studying.
-    I excel in building web applications using React, Node.js, and MongoDB.
-    I'm known for my sharp wit and quick thinking, traits that serve me well in coding and pranks alike.
-    Looking for a challenge? Let's create something memorable together.`,
+    description: `I'm a full stack software engineer with a background in hospitality. After realizing my passion for technology and software engineering, I learned as much as I could as quickly as possible. Today I'm continuing to learn and building effecient and scallable applications.`,
     education: [
       {
-        title: "Self-Taught Developer Extraordinaire",
-        date: "2000 - Present",
-        location: "Springfield Elementary School of Hard Knocks",
-        gpa: "4.0 (A+ in Pranks)",
-        thesis: "The Art of Subverting Expectations: A Practical Guide",
+        title: "General Assembly",
+        date: "2024",
+        location: "Software Engineering Immersive",
       },
+      {
+        title: "Washington State University",
+        date: "2019-2023",
+        location: "Hospitality Business Management"
+      }
     ],
     experience: [
       {
@@ -52,41 +51,41 @@ export const info = {
 
   projects: [
     {
-      title: "Bart's Prank Portfolio",
+      title: "My Portfolio",
       date: "2024",
       description:
-        "An interactive portfolio website showcasing my mischievous coding projects.",
-      link: "https://github.com/bartsimpsonfake/prank-portfolio",
-      tech: ["React", "Node.js", "MongoDB", "Sarcasm.js"],
+        "An interactive website showcasing my coding projects.",
+      link: "https://github.com/thelonious55/portfolio1",
+      tech: ["React", "Node.js", 'Typescript', "Express.js"],
       img_alt: "Bart's Portfolio",
       img_path: "/simpsons.png",
     },
     {
-      title: "Skateboard Shop",
-      date: "2023",
+      title: "Ruckus",
+      date: "2024",
       description:
-        "An e-commerce site selling skateboards and prank supplies. No bullies allowed!",
-      link: "https://github.com/bartsimpsonfake/skate-shop",
-      tech: ["React", "Node.js", "MongoDB", "Skateboard.js"],
+        "A full stack social media site where users can share thoughts and ideas",
+      link: "https://github.com/thelonious55/Ruckus",
+      tech: ["Python", "Django", "PostgreSQL", "Bootstrap"],
       img_alt: "Skateboard Shop",
       img_path: "skateboard.png",
     },
     {
-      title: "Comic Book Club",
-      date: "2022",
+      title: "Art Gallery",
+      date: "2024",
       description:
-        "A platform for comic book enthusiasts to discuss and share their collections.",
-      link: "https://github.com/bartsimpsonfake/comic-club",
-      tech: ["React", "Node.js", "MongoDB", "Comic.js"],
+        "A work in progress platform for curating a personal digital art collection",
+      link: "https://github.com/thelonious55/art-gallery",
+      tech: ["React", "Node.js", "MongoDB", "Express.js"],
       img_alt: "Comic Book Club",
       img_path: "comics.png",
     },
   ],
 
   contact: {
-    email: "bart@thesimpsons.com",
-    linkedin: "https://www.linkedin.com/in/bartsimpsonfake",
-    github: "https://www.github.com/gio-del",
-    twitter: "https://www.twitter.com/bartsimpsonfake",
+    email: "thelonious06@gmail.com",
+    linkedin: "www.linkedin.com/in/thelonious-fox",
+    github: "https://github.com/thelonious55",
+    
   },
 };
