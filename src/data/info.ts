@@ -1,10 +1,10 @@
 export const info = {
   name: "Thelonious Fox",
   brief_description:
-    "I'm a Full Stack Engineer",
+    "Full Stack Software Engineer",
   role: "Full Stack Developer",
-  picture: "/pic.png",
-  picture_alt: "Bart Simpson",
+  picture: "/1645763115535.jpg",
+  picture_alt: "My Picture",
   location: "Seattle, WA",
   cv: "/resume.pdf",
 
@@ -23,30 +23,24 @@ export const info = {
       }
     ],
     experience: [
-      {
-        title: "Frontend Developer",
-        date: "2015 - Present",
-        location: "Krusty Burger Web Dev",
-        description:
-          "Crafted interactive web experiences using React and Redux. Often multitasked between coding and avoiding Principal Skinner.",
-      },
-      {
-        title: "Backend Bandit",
-        date: "2013 - 2015",
-        location: "Comic Book Guy's Software Emporium",
-        description:
-          "Masterminded backend solutions using Node.js and MongoDB. Surprisingly good at debugging, considering my history of causing bugs.",
-      },
-      {
-        title: "Junior Hacker",
-        date: "2010 - 2013",
-        location: "Springfield Elementary Cyber Club",
-        description:
-          "Pioneered early web exploits, leading the club in daring coding escapades. Was disciplined for hacking the school's grading system.",
-      },
+      // {
+      //   title: "Frontend Developer",
+      //   date: "2015 - Present",
+      //   location: "Krusty Burger Web Dev",
+      //   description:
+      //     "Crafted interactive web experiences using React and Redux. Often multitasked between coding and avoiding Principal Skinner.",
+      // },
+      // {
+      //   title: "Backend Bandit",
+      //   date: "2013 - 2015",
+      //   location: "Comic Book Guy's Software Emporium",
+      //   description:
+      //     "Masterminded backend solutions using Node.js and MongoDB. Surprisingly good at debugging, considering my history of causing bugs.",
+      // },
+      
     ],
 
-    skills: ["JavaScript", "React", "Node.js", "MongoDB", "Prank Mastery"], // not used yet
+    
   },
 
   projects: [
