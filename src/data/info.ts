@@ -23,21 +23,19 @@ export const info = {
       }
     ],
     experience: [
-      // {
-      //   title: "Frontend Developer",
-      //   date: "2015 - Present",
-      //   location: "Krusty Burger Web Dev",
-      //   description:
-      //     "Crafted interactive web experiences using React and Redux. Often multitasked between coding and avoiding Principal Skinner.",
-      // },
-      // {
-      //   title: "Backend Bandit",
-      //   date: "2013 - 2015",
-      //   location: "Comic Book Guy's Software Emporium",
-      //   description:
-      //     "Masterminded backend solutions using Node.js and MongoDB. Surprisingly good at debugging, considering my history of causing bugs.",
-      // },
-      
+      {
+        title: "Independent Freelance",
+        date: "2023 - Present",
+        location: "",
+        description:
+          "Crafted interactive full stack web experiences. Often multitasked between coding and project management.",
+      },
+      {
+        title: "Kitchen Lead",
+        date: "2020 - 2023",
+        location: "Chi Omega Inc.",
+        description: ""
+      }
     ],
 
     
@@ -50,7 +48,7 @@ export const info = {
       description:
         "An interactive website showcasing my coding projects.",
       link: "https://github.com/thelonious55/portfolio1",
-      tech: ["React", "Node.js", 'Typescript', "Express.js"],
+      tech: ["React", "Node.js", 'Typescript', "Express"],
       img_alt: "Bart's Portfolio",
       img_path: "/simpsons.png",
     },
@@ -70,10 +68,24 @@ export const info = {
       description:
         "A work in progress platform for curating a personal digital art collection",
       link: "https://github.com/thelonious55/art-gallery",
-      tech: ["React", "Node.js", "MongoDB", "Express.js"],
+      tech: ["React", "Node.js", "MongoDB", "Express"],
       img_alt: "Comic Book Club",
       img_path: "comics.png",
     },
+    {
+      title: "Pupstagram",
+      date: "2024",
+      description: "Responsive full stack photo sharing application using React",
+      link: "https://github.com/thelonious55/pupstagram",
+      tech: ["React", "Node.js", "MongoDB", "AWS", "Express"]
+    },
+    {
+      title: "Bar Crawl Tracker",
+      date: "2024",
+      description: "An application for creating and tracking bar crawls",
+      link: "https://github.com/thelonious55/barcrawl-app",
+      tech: ["Node.js", "MongoDB", "Express"]
+    }
   ],
 
   contact: {
