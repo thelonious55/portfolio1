@@ -9,7 +9,7 @@ export const info = {
   cv: "/resume.pdf",
 
   about: {
-    description: `I'm a full stack software engineer with a background in hospitality. After realizing my passion for technology and software engineering, I learned as much as I could as quickly as possible. Today I'm continuing to learn and building effecient and scallable applications.`,
+    description: `As a full-stack software engineer with a background in hospitality management, I bring a unique perspective to solving problems and a passion for collaboration. My journey into software engineering is fueled by a desire to innovate and provide new perspectives. My focus is on crafting innovative digital products that balance aesthetic appeal with user-centric functionality.`,
     education: [
       {
         title: "General Assembly",
@@ -42,6 +42,15 @@ export const info = {
 
   projects: [
     {
+      title: "Tamagotchi",
+      date: "2024",
+      description: "A classic game brought new life",
+      link: "https://github.com/thelonious55/tamagotchi-game",
+      tech: ["Javascript", "HTML", "CSS"],
+      img_path: "tamagotchi.png",
+      img_alt: "Tamagotchi"
+    },
+    {
       title: "My Portfolio",
       date: "2024",
       description:
@@ -49,7 +58,7 @@ export const info = {
       link: "https://github.com/thelonious55/portfolio1",
       tech: ["React", "Node.js", 'Typescript', "Express"],
       img_alt: "Bart's Portfolio",
-      img_path: "/simpsons.png",
+      img_path: "prtIMG.jpeg",
     },
     {
       title: "Ruckus",
@@ -58,14 +67,14 @@ export const info = {
         "A full stack social media site where users can share thoughts and ideas",
       link: "https://github.com/thelonious55/Ruckus",
       tech: ["Python", "Django", "PostgreSQL", "Bootstrap"],
-      img_alt: "Skateboard Shop",
-      img_path: "skateboard.png",
+      img_alt: "ruckus",
+      img_path: "ruckus.png",
     },
     {
       title: "Art Gallery",
       date: "2024",
       description:
-        "A work in progress platform for curating a personal digital art collection",
+        "Personal art gallery application",
       link: "https://github.com/thelonious55/art-gallery",
       tech: ["React", "Node.js", "MongoDB", "Express"],
       img_alt: "Comic Book Club",
@@ -76,20 +85,23 @@ export const info = {
       date: "2024",
       description: "Responsive full stack photo sharing application using React",
       link: "https://github.com/thelonious55/pupstagram",
-      tech: ["React", "Node.js", "MongoDB", "AWS", "Express"]
+      tech: ["React", "Node.js", "MongoDB", "AWS", "Express"],
+      img_path: "pupstagram.webp"
     },
     {
       title: "Bar Crawl Tracker",
       date: "2024",
       description: "An application for creating and tracking bar crawls",
       link: "https://github.com/thelonious55/barcrawl-app",
-      tech: ["Node.js", "MongoDB", "Express"]
+      tech: ["Node.js", "MongoDB", "Express"],
+      img_path: "MyBarCrawl.png",
+      img_alt: "Bar Crawl Tracker"
     }
   ],
 
   contact: {
     email: "thelonious06@gmail.com",
-    linkedin: "www.linkedin.com/in/thelonious-fox",
+    linkedin: "https://www.linkedin.com/in/thelonious-fox/",
     github: "https://github.com/thelonious55",
     
   },
