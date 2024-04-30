@@ -24,11 +24,11 @@ export const info = {
     ],
     experience: [
       {
-        title: "Independent Freelance",
+        title: "Independent",
         date: "2023 - Present",
-        location: "",
+        
         description:
-          "Crafted interactive full stack web experiences. Often multitasked between coding and project management.",
+          "Crafted interactive full stack web experiences.",
       },
       {
         title: "Kitchen Lead - Chi Omega Inc.",
