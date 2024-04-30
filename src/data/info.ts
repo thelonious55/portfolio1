@@ -31,9 +31,8 @@ export const info = {
           "Crafted interactive full stack web experiences. Often multitasked between coding and project management.",
       },
       {
-        title: "Kitchen Lead",
+        title: "Kitchen Lead - Chi Omega Inc.",
         date: "2020 - 2023",
-        location: "Chi Omega Inc.",
         description: ""
       }
     ],
