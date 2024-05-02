@@ -5,7 +5,7 @@ export const info = {
   role: "Full Stack Developer",
   picture: "/1645763115535.jpg",
   picture_alt: "My Picture",
-  location: "Seattle, WA",
+  location: "Pullman, WA",
   cv: "/resume.pdf",
 
   about: {
@@ -44,7 +44,7 @@ export const info = {
     {
       title: "Tamagotchi",
       date: "2024",
-      description: "A classic game brought new life",
+      description: "My take on the classic mobile game",
       link: "https://github.com/thelonious55/tamagotchi-game",
       tech: ["Javascript", "HTML", "CSS"],
       img_path: "tamagotchi.png",
@@ -74,7 +74,7 @@ export const info = {
       title: "Art Gallery",
       date: "2024",
       description:
-        "Personal art gallery application",
+        "Personal art gallery application using React",
       link: "https://github.com/thelonious55/art-gallery",
       tech: ["React", "Node.js", "MongoDB", "Express"],
       img_alt: "Comic Book Club",
