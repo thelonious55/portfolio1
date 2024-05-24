@@ -1,6 +1,6 @@
 # <center>  My Portfolio </center>
 
-A collection of my coding projects using Astro.js
+A collection of my coding projects
 
 ## <center> Technologies Used 🖥️</center>
 - HTML/CSS
@@ -9,6 +9,7 @@ A collection of my coding projects using Astro.js
 - React
 - Node
 - Express
+- Astro.js
 
 ## <center> Deployement </center>
-thelonious.onrender.com
+[here](https://thelonious.onrender.com)
